@@ -1,0 +1,25 @@
+16.5.2023, 4:08:17 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SEELECT * FROM targetAudience' at line 1
+----------------------------
+16.5.2023, 4:35:18 	 ER_NON_UNIQ_ERROR: Column 'targetAudienceId' in where clause is ambiguous
+----------------------------
+16.5.2023, 4:35:31 	 ER_NON_UNIQ_ERROR: Column 'targetAudienceId' in where clause is ambiguous
+----------------------------
+16.5.2023, 4:37:35 	 ER_NON_UNIQ_ERROR: Column 'targetAudienceId' in where clause is ambiguous
+----------------------------
+16.5.2023, 5:20:57 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1',
+        'robot for children',
+        'undefined',
+        '30',
+       ...' at line 3
+----------------------------
+16.5.2023, 5:21:27 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''undefined',
+        'robot for children',
+        'undefined',
+        '30',...' at line 3
+----------------------------
+16.5.2023, 5:21:55 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1',
+        'robot for children',
+        'undefined',
+        '30',
+       ...' at line 3
+----------------------------
