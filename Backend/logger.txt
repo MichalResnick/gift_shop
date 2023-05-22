@@ -23,3 +23,25 @@
         '30',
        ...' at line 3
 ----------------------------
+21.5.2023, 1:36:58 	 connect ECONNREFUSED ::1:3306
+----------------------------
+21.5.2023, 1:36:58 	 connect ECONNREFUSED ::1:3306
+----------------------------
+21.5.2023, 1:37:14 	 connect ECONNREFUSED ::1:3306
+----------------------------
+21.5.2023, 1:37:14 	 connect ECONNREFUSED ::1:3306
+----------------------------
+21.5.2023, 1:42:18 	 Route /api/gifts-per-target-audience1 not exist
+----------------------------
+21.5.2023, 1:42:25 	 Route /api/gifts-per-target-audience2 not exist
+----------------------------
+21.5.2023, 1:42:42 	 Route /api/gifts-per-target-audience3 not exist
+----------------------------
+21.5.2023, 1:44:07 	 Route /api/gifts-per-target-audience2 not exist
+----------------------------
+21.5.2023, 1:48:12 	 Route /api/gifts-per-target-audience3 not exist
+----------------------------
+21.5.2023, 2:03:39 	 Route /api/gifts-per-target-audience2 not exist
+----------------------------
+21.5.2023, 2:03:46 	 Route /api/gifts-per-target-audience3 not exist
+----------------------------

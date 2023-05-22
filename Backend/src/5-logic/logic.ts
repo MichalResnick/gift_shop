@@ -11,7 +11,7 @@ async function getAllTargetAudience():Promise<TargetAudienceModel[]>{
 
 async function getGiftsByTargetAudience(targetAudienceId:number):Promise<GiftModel[]>{
     const sql=`
-    SELECT G.*,T.targetaudienceName
+    SELECT G.*,T.targetAudienceName
     FROM gifts AS G JOIN targetaudience AS T
     ON G.targetAudienceId=T.targetAudienceId
     WHERE G.targetAudienceId=${targetAudienceId} `

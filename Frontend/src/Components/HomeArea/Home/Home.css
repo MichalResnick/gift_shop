@@ -1,3 +1,7 @@
-.Home {
-	
+
+.Home img{
+   mix-blend-mode:multiply;
+   width: 200px;
+   height: 200px;
+
 }
