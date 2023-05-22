@@ -11,3 +11,12 @@ a{
 input,select,button{
     font-size: large;
 }
+.Box{
+    display: inline-block;
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    
+}

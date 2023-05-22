@@ -14,7 +14,7 @@ function GiftCard(props: GiftCardProps): JSX.Element {
 
             <div className="container">
                 <h2>Name: {props.gift.name}</h2>
-                <span>Description:{props.gift.discription}</span>
+                <span>Description:{props.gift.description}</span>
                 <br />
                 <p>Price: {props.gift.price}</p>
                 <p>Discount: {props.gift.discount}</p>
